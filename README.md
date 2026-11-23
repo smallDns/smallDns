@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou o Arthur!
+#  Olá, eu sou o Arthur!
 
 ### Estudante de Informática | Desenvolvedor em Formação
 
@@ -15,7 +15,9 @@ Estou constantemente aprendendo novas tecnologias, aprimorando minhas habilidade
 - ⚙️ Interesse em desenvolvimento de software.
 - 🌐 Experiência em projetos com tecnologias Web.
 - 🗄️ Conhecimentos em bancos de dados.
+- 🐍 Entusiasta da automação em python.
 - 🧠 Sempre buscando aprender e evoluir na programação.
+- 📡 Interesse em desenvolvimento de firmware em sistemas embarcados.
 
 ---
 
@@ -31,6 +33,8 @@ Estou constantemente aprendendo novas tecnologias, aprimorando minhas habilidade
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
 
 ### Banco de dados
@@ -48,7 +52,7 @@ Estou constantemente aprendendo novas tecnologias, aprimorando minhas habilidade
 </p>
 
 ---
-
+<!--  
 ## 📂 Projeto em destaque
 
 ### 🍽️ Platypus — Sistema de Gestão de Restaurante
@@ -75,7 +79,7 @@ Sistema desenvolvido para auxiliar no gerenciamento de restaurantes, utilizando 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
+-->
 ---
 
 ## 🎯 Objetivos
@@ -95,10 +99,10 @@ Tenho interesse em:
 ## 🌐 Conecte-se comigo
 
 <p>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/smallDns">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/eorx.xz._">
+  <a href="https://instagram.com/rx.z._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -110,5 +114,5 @@ Tenho interesse em:
 </p>
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+   Obrigado por visitar meu perfil!
 </p>
