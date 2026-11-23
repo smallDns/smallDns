@@ -8,7 +8,7 @@ Estou constantemente aprendendo novas tecnologias, aprimorando minhas habilidade
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 - 🎓 Estudante de informática.
 - 💻 Desenvolvedor em formação.
@@ -81,7 +81,7 @@ Sistema desenvolvido para auxiliar no gerenciamento de restaurantes, utilizando 
 -->
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 Meu principal objetivo é evoluir continuamente como desenvolvedor, aprofundar meus conhecimentos em programação e construir soluções que possam contribuir para o mundo da tecnologia.
 
