@@ -46,6 +46,10 @@ mindset: Learn. Build. Improve.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp" />
 
+### Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,debian,kali,arch,windows" />
+
 ### Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,windows" />
