@@ -61,14 +61,6 @@ mindset: Learn. Build. Improve.
 
 ## `03 // FEATURED PROJECTS`
 
-<details>
-<summary><b>◈ Platypus — Restaurant Management System</b></summary>
-
-<br>
-
-A restaurant management system designed to organize operations through a functional and modern interface.
-
-**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
 
 [Explore repository](https://github.com/smallDns)
 
