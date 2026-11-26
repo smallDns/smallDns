@@ -48,7 +48,7 @@ mindset: Learn. Build. Improve.
 
 ### Operating Systems
 
-<img src="https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,dbs,arch,windows" />
+<img src="https://skillicons.dev/icons?i=linux,debian,redhat,kali,bsd,arch,windows" />
 
 
 ### Database & Tools
