@@ -59,25 +59,6 @@ mindset: Learn. Build. Improve.
 
 ---
 
-## `03 // FEATURED PROJECTS`
-
-
-[Explore repository](https://github.com/smallDns)
-
-</details>
-
-<details>
-<summary><b>◈ More projects</b></summary>
-
-<br>
-
-Discover my experiments, personal projects and development journey.
-
-[View all repositories](https://github.com/smallDns?tab=repositories)
-
-</details>
-
----
 
 ## `04 // GITHUB ANALYTICS`
 
