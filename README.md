@@ -66,7 +66,7 @@ mindset: Learn. Build. Improve.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=smallDns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallDns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallDns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=10" />
 
 <img src="https://streak-stats.demolab.com?user=smallDns&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7B2FF7&currStreakLabel=00F5FF" />
 
