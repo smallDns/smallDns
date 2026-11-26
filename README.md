@@ -60,7 +60,7 @@ mindset: Learn. Build. Improve.
 ---
 
 
-## `04 // GITHUB ANALYTICS`
+## `03 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -74,7 +74,7 @@ mindset: Learn. Build. Improve.
 
 ---
 
-## `05 // CURRENT OBJECTIVES`
+## `04 // CURRENT OBJECTIVES`
 
 ```text
 [ SYSTEM PROGRESS ]
