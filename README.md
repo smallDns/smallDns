@@ -50,6 +50,8 @@ mindset: Learn. Build. Improve.
 
 <img src="https://skillicons.dev/icons?i=linux,debian,kali,arch,windows" />
 
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,arch,fedora,mint,manjaro,alpine,nixos,opensuse,redhat,raspberrypi,windows&perline=7" />
+
 ### Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,windows" />
